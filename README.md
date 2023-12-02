@@ -7,3 +7,4 @@
 * mikkiflip@fullnode1:~/drupal$ docker composer up -d
 * arkadev@arkadevs-MacBook-Pro wordpress % git add README.md
 * arkadev@arkadevs-MacBook-Pro wordpress % git status
+* git clone https://github.com/arkadevinc/wordpress.git .
